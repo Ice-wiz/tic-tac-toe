@@ -1,0 +1,33 @@
+.board-wrapper {
+  width: 20%;
+  margin: auto;
+}
+
+.board-column {
+  height: 100px;
+  width: 5px;
+  border: 1px solid #ccc;
+  padding: 0 !important;
+}
+
+.button {
+  width: 100%;
+  height: 100%;
+  font-size: 80px;
+  color: white;
+}
+
+
+.button_O{
+  background-color: green;
+}
+
+.button_X{
+  background-color: red;
+}
+
+p{
+  font-size: 30px;
+  font-weight: 600;
+  margin-top: 100 !important;
+}
